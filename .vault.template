@@ -1,0 +1,6 @@
+# Obsidian Vault Template
+name: MirrorDNA
+core_plugins:
+  - daily-notes
+  - backlinks
+theme: mirror-light
